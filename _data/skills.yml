@@ -1,0 +1,34 @@
+languages:
+  - item: Java
+  - item: Kotlin
+  - item: HTML
+  - item: CSS
+  - item: PHP
+  - item: SQL
+  - item: Swift
+  - item: Dart
+  - item: Javascript
+  - item: C#
+
+frameworks:
+  - item: Android
+  - item: iOS
+  - item: Flutter
+  - item: Ionic
+  - item: CodeIgniter
+
+tools:
+  - item: Android Studio
+  - item: Git & Github
+  - item: Xcode
+  - item: Chrome DevTools
+  - item: Postman
+  - item: MongoDB
+  - item: Atom
+  - item: Visual Studio Code
+
+design:
+  - item: InVision
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
