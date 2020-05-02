@@ -2,7 +2,6 @@ languages:
   - item: Java
   - item: Kotlin
   - item: HTML
-  - item: CSS
   - item: PHP
   - item: SQL
   - item: Swift
@@ -21,9 +20,7 @@ tools:
   - item: Android Studio
   - item: Git & Github
   - item: Xcode
-  - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
   - item: Atom
   - item: Visual Studio Code
 
